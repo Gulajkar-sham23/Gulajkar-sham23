@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Devops tools
 - 📫 How to reach me email: shamugulajkar@gmail.com
 - 😄 Pronouns: Cloud-techiee
-- ⚡ Fun fact: Lets fun 
+- ⚡ Fun fact: Playing with LINUX AWS DEVOPS Tools
 
 <!---
 Gulajkar-sham23/Gulajkar-sham23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
