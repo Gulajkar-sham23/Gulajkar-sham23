@@ -1,7 +1,8 @@
 # ![MasterHead](https://cdn.dribbble.com/userupload/7725814/file/original-ad34e5a3d587a8a90b6586de67710225.gif)
 
-# 👋 Hi, I'm Sham Gulajkar | **Cloud and DevOps Engineer**  
+# 👋 Hi, I'm Sham Gulajkar | **Aspiring Cloud and DevOps Engineer**  
 <img align="right" alt="Scripting" width="400" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
+=> Eager to Learn more and new things..
 
 🚀 **Bridging DevOps & DataOps with Cloud, Automation & Observability**  
 
